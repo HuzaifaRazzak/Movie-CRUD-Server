@@ -1,11 +1,11 @@
-# Node.js and Express Hosted on Microsoft Azure Template
+# Movie CRUD
 
-Dependencies: Node.js and Express
+## Author
+Huzaifa Razzak [email:huzaifaarazzak@lewisu.edu](mailto:huzaifaarazzak@lewisu.edu)
 
-This repository is a template that can be used to create a Node.js and Express website for hosting on Microsoft Azure.
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
 Initial Usage:
 - npm install express
 - npm start
-
-
